@@ -10,10 +10,10 @@ import os
 from pathlib import Path
 
 ENTRY = (
-    "You have read so many words tonight. Set them down. "
+    "You have read so many words tonight. "
     "Somewhere a kettle ticks as it cools, a dog sighs in its sleep, "
     "and the last lamp in the house stays on just for you. "
-    "Nothing is waiting. Stay here a while."
+    "The night asks nothing of you."
 )
 
 
